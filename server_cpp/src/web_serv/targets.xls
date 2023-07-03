@@ -1,0 +1,7 @@
+Task Description	Pre-requesite	Complete	Priority
+Implement multi-pool coordination	pool-full detection function		3
+credentials.txt opening function	None		1
+login function	None		1
+handling function 	Implement multi-pool coordination		4
+implement openssl encryption	None		3
+pool-full detection function	None		3

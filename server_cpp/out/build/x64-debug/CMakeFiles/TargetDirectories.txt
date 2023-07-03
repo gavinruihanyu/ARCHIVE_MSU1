@@ -1,0 +1,9 @@
+C:/Users/92/source/repos/gavinruihanyu/MSU1/server/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/92/source/repos/gavinruihanyu/MSU1/server/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/92/source/repos/gavinruihanyu/MSU1/server/out/build/x64-debug/src/web_serv/CMakeFiles/helpers_lib.dir
+C:/Users/92/source/repos/gavinruihanyu/MSU1/server/out/build/x64-debug/src/web_serv/CMakeFiles/client_lib.dir
+C:/Users/92/source/repos/gavinruihanyu/MSU1/server/out/build/x64-debug/src/web_serv/CMakeFiles/server_lib.dir
+C:/Users/92/source/repos/gavinruihanyu/MSU1/server/out/build/x64-debug/src/web_serv/CMakeFiles/router_lib.dir
+C:/Users/92/source/repos/gavinruihanyu/MSU1/server/out/build/x64-debug/src/web_serv/CMakeFiles/web_serv.dir
+C:/Users/92/source/repos/gavinruihanyu/MSU1/server/out/build/x64-debug/src/web_serv/CMakeFiles/edit_cache.dir
+C:/Users/92/source/repos/gavinruihanyu/MSU1/server/out/build/x64-debug/src/web_serv/CMakeFiles/rebuild_cache.dir

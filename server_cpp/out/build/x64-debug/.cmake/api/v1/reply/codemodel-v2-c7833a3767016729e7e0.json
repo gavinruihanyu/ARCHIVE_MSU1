@@ -1,0 +1,112 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src/web_serv",
+					"jsonFile" : "directory-src.web_serv-Debug-6951ca93acc520e4a8ad.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/web_serv",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "web_serv",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "client_lib::@dc3aef8bf0e1754ff24b",
+					"jsonFile" : "target-client_lib-Debug-ba0ffdf391f9bea927ce.json",
+					"name" : "client_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "helpers_lib::@dc3aef8bf0e1754ff24b",
+					"jsonFile" : "target-helpers_lib-Debug-561624a6ef4c3a959cbb.json",
+					"name" : "helpers_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "router_lib::@dc3aef8bf0e1754ff24b",
+					"jsonFile" : "target-router_lib-Debug-dc7224a5d1ab397f046f.json",
+					"name" : "router_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "server_lib::@dc3aef8bf0e1754ff24b",
+					"jsonFile" : "target-server_lib-Debug-e4252841f3bee1f6ee34.json",
+					"name" : "server_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "web_serv::@dc3aef8bf0e1754ff24b",
+					"jsonFile" : "target-web_serv-Debug-1d787d626e575337423d.json",
+					"name" : "web_serv",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/92/source/repos/gavinruihanyu/MSU1/server/out/build/x64-debug",
+		"source" : "C:/Users/92/source/repos/gavinruihanyu/MSU1/server"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

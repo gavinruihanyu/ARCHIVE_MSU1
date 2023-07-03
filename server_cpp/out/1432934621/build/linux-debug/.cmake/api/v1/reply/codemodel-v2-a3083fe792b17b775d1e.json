@@ -1,0 +1,110 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src/web_serv",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/web_serv",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "web_serv",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "client_lib::@dc3aef8bf0e1754ff24b",
+					"jsonFile" : "target-client_lib-Debug-e070637d418b895f1035.json",
+					"name" : "client_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "n_server_lib::@dc3aef8bf0e1754ff24b",
+					"jsonFile" : "target-n_server_lib-Debug-9f85a5ae51b7e389a80a.json",
+					"name" : "n_server_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "router_lib::@dc3aef8bf0e1754ff24b",
+					"jsonFile" : "target-router_lib-Debug-260b46434fa9b2a63e98.json",
+					"name" : "router_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "server_lib::@dc3aef8bf0e1754ff24b",
+					"jsonFile" : "target-server_lib-Debug-fcd850733c59413190b5.json",
+					"name" : "server_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "web_serv::@dc3aef8bf0e1754ff24b",
+					"jsonFile" : "target-web_serv-Debug-546808029fb836d5c819.json",
+					"name" : "web_serv",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/gavin/.vs/server/out/build/linux-debug",
+		"source" : "/home/gavin/.vs/server/server"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

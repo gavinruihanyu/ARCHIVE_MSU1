@@ -1,0 +1,26 @@
+# ninja log v5
+5	62	7047187564671641	src/web_serv/CMakeFiles/client_lib.dir/client/client.cpp.obj	f7c00aadfb38b490
+63	102	7047187565028379	client_lib.lib	3094cd13156fcd9d
+1	432	7047187568352911	src/web_serv/CMakeFiles/helpers_lib.dir/helpers/helpers.cpp.obj	c3be1502056088a3
+433	472	7047187568719090	helpers_lib.lib	92970e991b962138
+16	1319	7047187577192177	src/web_serv/CMakeFiles/router_lib.dir/router/router.cpp.obj	1760e430e90bd667
+1322	1360	7047187577597415	router_lib.lib	aa2c61859e34d688
+8	3260	7047187596536559	src/web_serv/CMakeFiles/server_lib.dir/server/server.cpp.obj	25b838881766d96b
+3269	3326	7047187597146557	server_lib.lib	cd6086f641596fb3
+12	4531	7047187609260794	src/web_serv/CMakeFiles/web_serv.dir/web_serv.cpp.obj	1f2642de9a9cac9a
+4533	4880	7047187612640898	web_serv.exe	154e0db172bd7775
+12	928	7047195854190516	src/web_serv/CMakeFiles/helpers_lib.dir/helpers/helpers.cpp.obj	c3be1502056088a3
+929	975	7047195854606742	helpers_lib.lib	92970e991b962138
+16	3299	7047195877824482	src/web_serv/CMakeFiles/server_lib.dir/server/server.cpp.obj	25b838881766d96b
+3299	3342	7047195878274487	server_lib.lib	cd6086f641596fb3
+20	4708	7047195891924822	src/web_serv/CMakeFiles/web_serv.dir/web_serv.cpp.obj	1f2642de9a9cac9a
+4709	4941	7047195893899354	web_serv.exe	154e0db172bd7775
+12	636	7047196625430832	src/web_serv/CMakeFiles/helpers_lib.dir/helpers/helpers.cpp.obj	c3be1502056088a3
+637	683	7047196625837466	helpers_lib.lib	92970e991b962138
+683	842	7047196627210018	web_serv.exe	154e0db172bd7775
+12	3056	7047197618318499	src/web_serv/CMakeFiles/server_lib.dir/server/server.cpp.obj	25b838881766d96b
+3057	3101	7047197618778502	server_lib.lib	cd6086f641596fb3
+3101	3287	7047197620368501	web_serv.exe	154e0db172bd7775
+12	3082	7047199741490166	src/web_serv/CMakeFiles/server_lib.dir/server/server.cpp.obj	25b838881766d96b
+3083	3129	7047199741976459	server_lib.lib	cd6086f641596fb3
+3129	3316	7047199743578122	web_serv.exe	154e0db172bd7775
